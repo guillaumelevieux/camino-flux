@@ -289,6 +289,11 @@ const definitions = [
     typeIds: ['arm'],
     statutIds: ['dmc']
   },
+  {
+    domaineIds: ['m'],
+    typeIds: ['axm'],
+    statutIds: ['ech']
+  },
   // --------------------------------------
   {
     domaineIds: ['s'],
