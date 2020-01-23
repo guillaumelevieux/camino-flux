@@ -15,6 +15,7 @@ Github : https://github.com/MTES-MCT/camino-flux
 Les flux géographiques Camino exposent les informations administratives et géographiques pour : 
 - les autorisations et titres miniers valides et faisant l'objet d'une demande de modification en instance,
 - les autorisations de recherches minières échues en Guyane (ARM),
+- les autorisations d'exploitation minières échues en Guyane (AEX),
 - les demandes initiales publiques en cours d'instruction de titres miniers et d'autorisations d’exploitation minière en Guyane (AEX),
 - les demandes d'autorisation de recherches minières classées en Guyane (ARM).
 
